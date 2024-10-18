@@ -1,7 +1,7 @@
 //electric bill using fanction
 /*
 Author: Brian muriuki joseph
-Reg No:CT102/G/21797/24
+Reg No:CT102/G/22804/24
 Date:17/10/2024
 */
 #include <stdio.h>
