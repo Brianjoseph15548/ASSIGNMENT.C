@@ -1,4 +1,10 @@
 //c structure
+/*
+program for c sructure
+Author:Brian muriukijoseph
+Reg No: CT102/G/22804/24
+Date:23/10/2024
+*/
 #include<stdio.h>
 #include<string.h>//stcrpy
 struct book
